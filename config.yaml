@@ -1,5 +1,5 @@
 title: "ffverse"
-baseURL: "https://ffverse.com"
+baseURL: "https://www.ffverse.com"
 languageCode: "en-US"
 theme: "osprey-delight"
 tags: ["fantasy-football", "r-package", "analytics"]
@@ -57,7 +57,7 @@ Params:
 ## Theme features:
   Feat:
     # useLazySizes to lazy load images with lazysizes (recommended)
-    useLazySizes: false
+    useLazySizes: true
 
     # ajaxBasin uses Basin for a functional contact form.
     # ajaxBasin: "https://usebasin.com/f/{YOUR-12-CHAR-FORM-KEY-HERE}"
@@ -72,7 +72,7 @@ Params:
 
     # useTermynal enables Termynal (https://github.com/ines/termynal), a small JS library for showing a terminal "animation" from within your gallery item.
     #   The cool thing is that the library has been stripped-down to a minimum to only have the necessary functionality.
-    useTermynal: false 
+    useTermynal: false
 
     # googleTagManager: ""
   
@@ -106,3 +106,5 @@ Menu:
       url: "https://dynastyprocess.com"
       weight: 4
     # Use icon here to back reference an external site:
+
+ignoreErrors: "error-remote-getjson"

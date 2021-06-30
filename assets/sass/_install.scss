@@ -3,7 +3,7 @@
   background-color: $secondary-bg-color;
 
   p {
-    @include size(h4);
+    @include size(h3);
     margin-top: $vertical-rhythm;
   }
 
