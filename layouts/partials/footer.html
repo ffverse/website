@@ -15,11 +15,9 @@
       {{ if .Site.Params.copyright }}
         {{ i18n "copyright" }} &copy; {{ now.Format "2006" }} {{ .Site.Title }}
       {{ end }}
-      {{ if or (.Site.Params.credit) (eq (isset .Site.Params "credit") false) -}}
       <div class="col-xs">
-          <small>Theme: <a href="https://github.com/kdevo/osprey-delight" target="_blank" rel="noopener">Osprey Delight</a></small>
+          <small>A project by <a href="https://dynastyprocess.com" target="_blank" rel="noopener">DynastyProcess.com</a></small>
       </div>
-      {{- end }}
       </small>
     </div>
   </div>
