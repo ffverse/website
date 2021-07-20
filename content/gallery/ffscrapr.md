@@ -8,14 +8,14 @@ imageheader: "ffscrapr-header-inverse.png"
 color: "#333333"
 type: github
 github: 
-  repo: "dynastyprocess/ffscrapr"
+  repo: "ffverse/ffscrapr"
   showInfo: true
   showButtons: false
 buttons:
   - i18n: docs
-    url: "https://ffscrapr.dynastyprocess.com"
+    url: "https://ffscrapr.ffverse.com"
   - i18n: github 
-    url: "https://github.com/dynastyprocess/ffscrapr/"
+    url: "https://github.com/ffverse/ffscrapr/"
 ---
 
 Helps access various Fantasy Football APIs (currently MFL, Sleeper, Fleaflicker, and ESPN) by handling authentication/rate-limiting/caching, forming appropriate calls, and returning tidy dataframes which can be easily connected to other data sources.
