@@ -8,7 +8,7 @@ alt: "ffsimulator logo"
 color: "#333333"
 type: github
 github: 
-  repo: "dynastyprocess/ffsimulator"
+  repo: "ffverse/ffsimulator"
   showInfo: true
   showButtons: false
 buttons:
