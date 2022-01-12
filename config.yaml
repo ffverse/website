@@ -46,7 +46,7 @@ Params:
 ## Social links in footer:
   Social:
   - type: github
-    url: github = "https://github.com/ffverse"
+    url: "https://github.com/ffverse"
    
   - type: discord
     url: "https://discord.com/invite/5Er2FBnnQa"

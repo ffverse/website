@@ -8,14 +8,14 @@ alt: "ffpros logo"
 color: "#333333"
 type: github
 github: 
-  repo: "dynastyprocess/ffpros"
+  repo: "ffverse/ffpros"
   showInfo: true
   showButtons: false
 buttons:
   - i18n: docs
     url: "https://ffpros.ffverse.com"
   - i18n: github 
-    url: "https://github.com/dynastyprocess/ffpros/"
+    url: "https://github.com/ffverse/ffpros/"
 ---
 
 Helps scrape FantasyPros.com by handling rate-limiting/caching/parsing and returning tidy dataframes which can be easily connected to other data sources.
