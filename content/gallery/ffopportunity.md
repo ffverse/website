@@ -3,7 +3,7 @@ weight: 4
 title: "ffopportunity"
 subtitle: "Expected Fantasy Points"
 image: "ffopp_square.png"
-imageheader: "ffopp-inverse.png"
+imageheader: "ffopp_inverse.png"
 alt: "ffopportunity logo"
 color: "#333333"
 type: github
